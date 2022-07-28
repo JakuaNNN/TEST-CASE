@@ -11,9 +11,9 @@ Given that I am a customer, when I click “Save to wishlist” button then the 
 
 *Steps to reproduce
 
-Go to the site 
+1. Go to the site 
 
-Place a product and press “Save to wishlist” button
+2. Place a product and press “Save to wishlist” button
 
 Go to Wishlist page 
 
